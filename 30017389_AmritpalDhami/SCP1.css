@@ -1,0 +1,71 @@
+.header {
+    text-align: center;
+    height: 100px;
+    width: 90%;
+    left: 5%;
+    margin-top: 10px;
+    margin-right: auto;
+   font-size: 25px;
+    color: black;
+     font-family:cursive;
+     font-style :italic;
+     font-size:350%;
+}
+.navbar{
+    width: 90%;
+    overflow: visible;
+    font-family: cursive;
+  }
+
+  .navbar a {
+    float: left;
+    font-size:22px;
+    color: rgb(26, 0, 0);
+    text-align: center;
+    padding: 18px 20px;
+    
+  }
+  nav a:link {color:black;}
+nav a:visited {color:black;}
+
+.navbar a:hover {
+          background-color: #A9A9A9;
+      }
+
+h1{
+       
+        text-align: center;
+        font-family: cursive;
+        font-style: italic;
+        font-size: 220%;
+
+}
+body{
+  background-color: black;
+}
+.paragraph{
+  font-family: Cursive;
+  color: black;
+} 
+.para{
+  font-family:Cursive;
+  color: black;
+}
+
+
+
+.footer{
+  text-align: center;
+  height:70px;
+  width:70;
+  left:5%;
+  margin-top: 10px;
+ color:white;
+  font-family:cursive;
+ font-size:85%;
+}
+
+
+
+
+
